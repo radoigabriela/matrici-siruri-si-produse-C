@@ -4,7 +4,7 @@ Acest repository conține trei programe scrise în limbajul C, fiecare ilustrân
 
 ### 1. Linii cu elemente nenule într-o matrice
 
-Programul citește o matrice de dimensiune `n x m` și afișează liniile care conțin cel puțin `k` elemente nenule. Codul este împărțit în funcții clare pentru:
+Programul citește o matrice de dimensiune n x m și afișează liniile care conțin cel puțin `k` elemente nenule. Codul este împărțit în funcții clare pentru:
 - validarea dimensiunilor
 - citirea valorilor
 - afișarea liniilor care respectă condiția
@@ -20,8 +20,8 @@ Este tratată și situația în care nu există numere pozitive sau negative în
 ###  3. Calcul numeric cu structuri repetitive
 
 Se calculează un produs matematic utilizând:
-- o funcție cu structură `for`
-- o funcție cu structură `while`
-- o funcție cu structură `do...while`
+- o funcție cu structură for
+- o funcție cu structură while
+- o funcție cu structură do while
 
 Valorile sunt validate pentru a se încadra între 1 și 100.
